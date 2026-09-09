@@ -1,0 +1,7 @@
+{
+  "name": "SeedSafe",
+  "description": "Offline-first personal security vault for logins, secure notes, ID numbers, payment cards, and documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
